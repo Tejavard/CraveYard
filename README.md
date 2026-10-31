@@ -155,6 +155,4 @@ docker-compose down -v
 
 ---
 
-## 👨‍💻 Author
 
-Developed with ❤️ by Harshith.
